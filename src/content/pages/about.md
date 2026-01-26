@@ -49,10 +49,10 @@ Instituto Palau Ausít<br>
 
 ## 💼 Experiencia Destacada
 
-
 ### Técnico en Automatización y Control Industrial | Antares SIstemas S.L.<br>
 *(Noviembre 2025 — Febrero 2026)*
 </div>
+
 * <span style="font-weight:700;">Puesta en marcha:</span> Implementación, pruebas y arranque de sistemas de automatización industrial, garantizando la operatividad y eficiencia de la maquinaria.
 * <span style="font-weight:700;">Integración de sistemas:</span> Conexión de sistemas de automatización con OPC, bases de datos y MES, garantizando la supervisión y el flujo de información entre procesos.
 * <span style="font-weight:700;">Programación SCADA:</span> Desarrollo y mantenimiento de interfaces SCADA para monitoreo y control de procesos industriales.
@@ -61,9 +61,12 @@ Instituto Palau Ausít<br>
 
 
 <div align="center">
+
 ### Técnico Montador y Programador | Zetes Multicom S.A.<br>
 *(Septiembre 2024 — Septiembre 2025)*
+
 </div>
+
 * <span style="font-weight:700;">Montaje Técnico:</span> Ensamblaje de cuadros eléctricos y neumáticos, junto con el montaje mecánico de maquinaria industrial.
 * <span style="font-weight:700;">Asistencia en programación:</span> Colaboración en el desarrollo de lógicas de control y pruebas de sistemas automatizados.
 * <span style="font-weight:700;">Programación SCADA:</span> Programación y desarrollo de interfaces SCADA para monitoreo y control de maquinas etiquetadoras.
