@@ -74,8 +74,8 @@ Instituto Palau Ausít<br>
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 16px;
 ">
-  <img src="/images/Antares/Antares1.jpg" alt="" />
   <img src="/images/Antares/Antares2.jpg" alt="" />
+  <img src="/images/Antares/Antares1.jpg" alt="" />
   <img src="/images/Antares/Antares3.jpg" alt="" />
 </div>
 
@@ -108,9 +108,9 @@ Instituto Palau Ausít<br>
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 16px;
 ">
-  <img src="/images/WinCC/WinCC1.jpg" alt="" />
-  <img src="/images/WinCC/WinCC2.jpg" alt="" />
-  <img src="/images/WinCC/WinCC3.jpg" alt="" />
+  <img src="/images/Zetes/Zetes1.jpg" alt="" />
+  <img src="/images/Zetes/Zetes2.jpg" alt="" />
+  <img src="/images/Zetes/Zetes3.jpg" alt="" />
 </div>
 
 ---
