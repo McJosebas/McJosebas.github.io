@@ -6,8 +6,9 @@ title: "Sobre mí"
 ### Programador de PLC e Integrador de Sistemas
 
 ---
-
-## 🛠️ Habilidades Técnicas
+<div align="center">
+## 🛠️ Habilidades Técnicas 🛠️
+</div>
 
 
 | ⚙️ Automatización y Control | 💻 Digitalización e IT Industrial |
@@ -21,7 +22,7 @@ title: "Sobre mí"
 ---
 <div align="center">
 
-## 🎓 Formación
+## 🎓 Formación 🎓
 
 ### **Grado Superior en Automatización y Robótica Industrial**<br>
 Instituto Palau Ausít<br>
@@ -43,13 +44,16 @@ Instituto Palau Ausít<br>
 <div style="display:flex; justify-content:center;">
   <img src="/images/ConexionesPLCS.jpg" width="400" alt="Project preview">
 </div>
+
+
 ---
+
 
 <div align="center">
 
-## 💼 Experiencia Destacada
+## 💼 Experiencia Destacada 💼
 
-### Técnico en Automatización y Control Industrial | Antares SIstemas S.L.<br>
+### 🐄 Técnico en Automatización y Control Industrial | Antares SIstemas S.L. 🐄<br>
 *(Noviembre 2025 — Febrero 2026)*
 </div>
 
@@ -60,9 +64,10 @@ Instituto Palau Ausít<br>
 
 
 
+
 <div align="center">
 
-### Técnico Montador y Programador | Zetes Multicom S.A.<br>
+### 📦 Técnico Montador y Programador | Zetes Multicom S.A. 📦<br>
 *(Septiembre 2024 — Septiembre 2025)*
 
 </div>
@@ -70,6 +75,7 @@ Instituto Palau Ausít<br>
 * <span style="font-weight:700;">Montaje Técnico:</span> Ensamblaje de cuadros eléctricos y neumáticos, junto con el montaje mecánico de maquinaria industrial.
 * <span style="font-weight:700;">Asistencia en programación:</span> Colaboración en el desarrollo de lógicas de control y pruebas de sistemas automatizados.
 * <span style="font-weight:700;">Programación SCADA:</span> Programación y desarrollo de interfaces SCADA para monitoreo y control de maquinas etiquetadoras.
+
 
 
 
