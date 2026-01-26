@@ -67,7 +67,12 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
+<div align="center">
+        
     title: 'Carta de presentación',
+    
+</div>
+
     text:
     "¿Trabajas en **Recursos Humanos**, eres **cliente**, **dueño de una empresa** o simplemente estás buscando un **perfil como el mío**?\n\n" +
     "La idea de esta web es **ponerte las cosas un poco más fáciles** a la hora de decidir si soy la persona adecuada para lo que estás buscando.\n\n" +

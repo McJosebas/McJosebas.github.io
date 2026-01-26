@@ -7,6 +7,7 @@ title: "Sobre mí"
 
 ---
 <div align="center">
+
 ## 🛠️ Habilidades Técnicas 🛠️
 </div>
 
