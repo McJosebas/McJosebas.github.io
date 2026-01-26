@@ -18,8 +18,11 @@ title: "Sobre mí"
 | <span style="font-weight:700;">Hardware:</span> Servomotores, Variadores, Cámaras Cognex | <span style="font-weight:700;">IT Tools:</span> .git, sourcetree |
 | <span style="font-weight:700;">Redes:</span> Profinet, Profibus, IO-Link | <span style="font-weight:700;">Diseño:</span> [Eplan](https://mcjosebas.github.io/eplan) |
 
-
 ---
+
+
+
+
 <div align="center">
 
 ## 🎓 Formación 🎓
@@ -44,9 +47,13 @@ Instituto Palau Ausít<br>
 <div style="display:flex; justify-content:center;">
   <img src="/images/ConexionesPLCS.jpg" width="400" alt="Project preview">
 </div>
-
-
 ---
+
+
+
+
+
+
 
 
 <div align="center">
@@ -62,8 +69,28 @@ Instituto Palau Ausít<br>
 * <span style="font-weight:700;">Programación SCADA:</span> Desarrollo y mantenimiento de interfaces SCADA para monitoreo y control de procesos industriales.
 * <span style="font-weight:700;">Edición de PLC:</span> Programacion, modificación, migración y optimización de programas PLC para mejorar el rendimiento de maquinaria y fabricas.
 
+<div style="
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+">
+  <img src="/images/WinCC/WinCC1.jpg" alt="" />
+  <img src="/images/WinCC/WinCC2.jpg" alt="" />
+  <img src="/images/WinCC/WinCC3.jpg" alt="" />
+</div>
 
----
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
 
@@ -76,8 +103,20 @@ Instituto Palau Ausít<br>
 * <span style="font-weight:700;">Asistencia en programación:</span> Colaboración en el desarrollo de lógicas de control y pruebas de sistemas automatizados.
 * <span style="font-weight:700;">Programación SCADA:</span> Programación y desarrollo de interfaces SCADA para monitoreo y control de maquinas etiquetadoras.
 
-
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
 
