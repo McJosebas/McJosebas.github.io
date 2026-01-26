@@ -58,9 +58,9 @@ title: "Sobre mí"
 ### Técnico Montador y Programador | Zetes Multicom S.A.<br>
 *(Septiembre 2024 — Septiembre 2025)*
 
-* <span style="font-weight:700;">Montaje Técnico:</span> Ensamblaje de cuadros eléctricos y neumáticos, junto con el montaje mecánico de maquinaria industrial, durante 3 meses.
-* <span style="font-weight:700;">Asistencia en programación:</span> Colaboración en el desarrollo de lógicas de control y pruebas de sistemas automatizados durante 9 meses.
-* <span style="font-weight:700;">Programación SCADA:</span> Programación y desarrollo de interfaces SCADA para monitoreo y control de maquinas etiquetadoras durante 9 meses.
+* <span style="font-weight:700;">Montaje Técnico:</span> Ensamblaje de cuadros eléctricos y neumáticos, junto con el montaje mecánico de maquinaria industrial.
+* <span style="font-weight:700;">Asistencia en programación:</span> Colaboración en el desarrollo de lógicas de control y pruebas de sistemas automatizados.
+* <span style="font-weight:700;">Programación SCADA:</span> Programación y desarrollo de interfaces SCADA para monitoreo y control de maquinas etiquetadoras
 
 
 
