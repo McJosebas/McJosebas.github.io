@@ -37,14 +37,3 @@ He trabajado en proyecntos que, entre otras cosas tienen:
   <img src="/images/WinCC/WinCC11.jpg" alt="" />
   <img src="/images/WinCC/WinCC12.jpg" alt="" />
 </div>
-
-<div style="
-  display:flex;
-  gap:16px;
-  flex-wrap:wrap;
-  justify-content:center;
-">
-  <img src="/images/wincc-1.jpg" width="200">
-  <img src="/images/wincc/WinCC3.jpg" width="200">
-  <img src="/images/ConexionesPLCS.jpg" width="200">
-</div>

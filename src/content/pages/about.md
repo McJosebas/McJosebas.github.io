@@ -15,7 +15,7 @@ title: "Sobre mí"
 | <span style="font-weight:700;">PLC:</span> TIA Portal, CX-Programmer | <span style="font-weight:700;">SCADA/MES:</span> [Movicon](https://mcjosebas.github.io/movicon), [Simatic Wincc](https://mcjosebas.github.io/wincc), CX-designer, Kinco HMIware |
 | <span style="font-weight:700;">Lenguajes:</span> Ladder, SCL, Visual Basic, Python, HTML | <span style="font-weight:700;">Datos:</span> BBDD, OPC UA, Node-Red |
 | <span style="font-weight:700;">Hardware:</span> Servomotores, Variadores, Cámaras Cognex | <span style="font-weight:700;">IT Tools:</span> .git, sourcetree |
-| <span style="font-weight:700;">Redes:</span> Profinet, Profibus, IO-Link | <span style="font-weight:700;">Diseño:</span> Eplan |
+| <span style="font-weight:700;">Redes:</span> Profinet, Profibus, IO-Link | <span style="font-weight:700;">Diseño:</span> [Eplan](https://mcjosebas.github.io/eplan) |
 
 
 ---

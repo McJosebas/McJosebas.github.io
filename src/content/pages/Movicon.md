@@ -3,6 +3,25 @@ title: "Movicon"
 ---
 [Atras](https://mcjosebas.github.io/about/)
 
+
+## Movicon SCADA – Supervisión y Visualización
+
+En esta página muestro proyectos desarrollados con **Movicon SCADA**, orientados a la supervisión y visualización de procesos industriales.
+
+En estos proyectos se pueden ver, entre otras cosas:
+
+- Desarrollo de aplicaciones **SCADA / HMI** con Movicon
+- Diseño de pantallas de supervisión
+- Gestión de **tags** y variables de proceso
+- Configuración de alarmas e históricos
+- Visualización de tendencias y datos de proceso
+- Comunicación con PLC y dispositivos industriales
+- Organización del proyecto y estructura de la aplicación
+
+A continuación se muestran **imágenes y videos de distintos proyectos**, donde se puede ver el funcionamiento del sistema y la forma en la que se presenta la información al operador.
+
+
+
 <div style="
   display:grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -22,14 +41,3 @@ title: "Movicon"
   <img src="/images/Movicon/Movicon12.jpg" alt="" />
 </div>
 
-
-<div style="
-  display:flex;
-  gap:16px;
-  flex-wrap:wrap;
-  justify-content:center;
-">
-  <img src="/images/wincc-1.jpg" width="200">
-  <img src="/images/wincc/WinCC3.jpg" width="200">
-  <img src="/images/ConexionesPLCS.jpg" width="200">
-</div>
