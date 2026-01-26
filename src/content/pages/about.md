@@ -74,9 +74,9 @@ Instituto Palau Ausít<br>
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 16px;
 ">
-  <img src="/images/WinCC/WinCC1.jpg" alt="" />
-  <img src="/images/WinCC/WinCC2.jpg" alt="" />
-  <img src="/images/WinCC/WinCC3.jpg" alt="" />
+  <img src="/images/Antares/Antares1.jpg" alt="" />
+  <img src="/images/Antares/Antares2.jpg" alt="" />
+  <img src="/images/Antares/Antares3.jpg" alt="" />
 </div>
 
 
@@ -102,6 +102,16 @@ Instituto Palau Ausít<br>
 * <span style="font-weight:700;">Montaje Técnico:</span> Ensamblaje de cuadros eléctricos y neumáticos, junto con el montaje mecánico de maquinaria industrial.
 * <span style="font-weight:700;">Asistencia en programación:</span> Colaboración en el desarrollo de lógicas de control y pruebas de sistemas automatizados.
 * <span style="font-weight:700;">Programación SCADA:</span> Programación y desarrollo de interfaces SCADA para monitoreo y control de maquinas etiquetadoras.
+
+<div style="
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+">
+  <img src="/images/WinCC/WinCC1.jpg" alt="" />
+  <img src="/images/WinCC/WinCC2.jpg" alt="" />
+  <img src="/images/WinCC/WinCC3.jpg" alt="" />
+</div>
 
 ---
 
