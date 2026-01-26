@@ -16,7 +16,7 @@ title: "Sobre mí"
 | :--------------------------: | :-----------------------------: |
 | <span style="font-weight:700;">PLC:</span> TIA Portal, CX-Programmer, EcoStruxure, LOGO! Soft Comfort, arduinoIDLE | <span style="font-weight:700;">SCADA/MES:</span> [Movicon](https://mcjosebas.github.io/movicon), [Simatic Wincc](https://mcjosebas.github.io/wincc), CX-designer, Kinco HMIware, Node-Red |
 | <span style="font-weight:700;">Lenguajes:</span> Ladder, SCL, AWL, C++, Visual Basic, Python, HTML | <span style="font-weight:700;">Datos:</span> BBDD, OPC UA |
-| <span style="font-weight:700;">Hardware:</span> Servomotores, Variadores, Cámaras Cognex, Cámara FQ, Antenas RFID | <span style="font-weight:700;">IT Tools:</span> .git, sourcetree |
+| <span style="font-weight:700;">Hardware:</span> Servomotores (S120), Variadores, Cámaras Cognex, Cámara FQ, Antenas RFID, Sensores Inductivos, Sensores Capacitivos, Sensores de temperatura (PT100, PT K) | <span style="font-weight:700;">IT Tools:</span> .git, sourcetree |
 | <span style="font-weight:700;">Redes:</span>TCP/IP/Modbus, Profinet, Profibus, Ethernet, Ethercat, IO-Link, ModBus, MQTT | <span style="font-weight:700;">Diseño:</span> [Eplan](https://mcjosebas.github.io/eplan) |
 
 ---
