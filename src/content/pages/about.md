@@ -53,7 +53,7 @@ Instituto Palau Ausít<br>
 
 ## 💼 Experiencia Destacada 💼
 
-### 🐄 Técnico en Automatización y Control Industrial | Antares SIstemas S.L. 🐄<br>
+### 🐄 Automatización y Control Industrial | Antares SIstemas S.L. 🐄<br>
 *(Noviembre 2025 — Febrero 2026)*
 </div>
 
@@ -63,7 +63,7 @@ Instituto Palau Ausít<br>
 * <span style="font-weight:700;">Edición de PLC:</span> Programacion, modificación, migración y optimización de programas PLC para mejorar el rendimiento de maquinaria y fabricas.
 
 
-
+---
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Instituto Palau Ausít<br>
 * <span style="font-weight:700;">Programación SCADA:</span> Programación y desarrollo de interfaces SCADA para monitoreo y control de maquinas etiquetadoras.
 
 
-
+---
 
 <div align="center">
 
