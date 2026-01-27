@@ -97,7 +97,9 @@ Sistema SCADA con Movicon para supervisión completa de una fábrica de pienso a
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 16px;
 ">
-  <img src="/images/Terpin/Terpin1.jpg" alt="" />
+  <a href="/images/Terpin/Terpin4.jpg" target="_blank">
+  <img src="/images/Terpin/Terpin4.jpg" width="300" alt="Proyecto">
+</a>
 </div>
 
 ### 3. Integración con MES y SQL
