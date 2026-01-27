@@ -66,16 +66,19 @@ Sistema SCADA con Movicon para supervisión completa de una fábrica de pienso a
 
 
 - **2 sinópticos 4K** con visión global de la fábrica 
+
 <div style="
-  display:grid;
+  display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 16px;
+  justify-items: center;
 ">
-  <a href="/images/Terpin/Terpin1.jpg" target="_blank">
-    <img src="/images/Terpin/4K1.png" alt="" />
-    <img src="/images/Terpin/4K2.png" alt="" />
+  <a href="/images/Terpin/4K1.png" target="_blank">
+    <img src="/images/Terpin/4K1.png" alt="Proyecto 1" style="width:200px; max-width:100%;">
   </a>
-</div>
+  <a href="/images/Terpin/4K2.png" target="_blank">
+    <img src="/images/Terpin/4K2.png" alt="Proyecto 2" style="width:200px; max-width:100%;">
+  </a>
 </div>
 
 - Supervisión de actuadores y sensores:  
