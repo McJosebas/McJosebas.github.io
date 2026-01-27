@@ -50,7 +50,7 @@ Instituto Palau Ausít<br>
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 16px;
 ">
-  <img src="/images/ConexionesPLCS.jpg" alt="" />
+  <img src="/images/Palau/Palau3.jpg" alt="" />
   <img src="/images/Palau/Palau1.jpg" alt="" />
   <img src="/images/Palau/Palau2.jpg" alt="" />
 </div>
