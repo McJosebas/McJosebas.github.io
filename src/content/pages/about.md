@@ -45,9 +45,16 @@ Instituto Palau Ausít<br>
 🔹 <span style="font-weight:700;">Instrumentación y medición:</span> sensores inductivos y capacitivos, ETs, voltímetros.<br>
 🔹 <span style="font-weight:700;">Proyectos prácticos:</span> Montaje, puesta en marcha y mantenimiento de instalaciones &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;automatizadas.<br>
 
-<div style="display:flex; justify-content:center;">
-  <img src="/images/ConexionesPLCS.jpg" width="400" alt="Project preview">
+<div style="
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+">
+  <img src="/images/ConexionesPLCS.jpg" alt="" />
+  <img src="/images/Palau/Palau1.jpg" alt="" />
+  <img src="/images/Palau/Palau2.jpg" alt="" />
 </div>
+
 ---
 
 
