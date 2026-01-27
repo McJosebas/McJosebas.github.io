@@ -92,7 +92,7 @@ Sistema SCADA con Movicon para supervisión completa de una fábrica de pienso a
 - Fallos en lógica de rutas 🛤️  
 - Nivel bajo de materia prima ⬇️  
 
-[![Proyecto](/images/Terpin/Terpin4.jpg)](/images/Terpin/Terpin4.jpg)
+[![Proyecto](/images/Terpin/Terpin4.png)](/images/Terpin/Terpin4.png)
 
 ### 3. Integración con MES y SQL
 - Recepción de datos críticos: fórmulas, pesos de lotes, stock de materia prima, alarmas  
