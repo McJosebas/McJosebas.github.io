@@ -54,8 +54,27 @@ Sistema SCADA con Movicon para supervisión completa de una fábrica de pienso a
 ### 1. Visualización y Control de Planta
 - Más de **10 sinópticos** por áreas (dosificación, molienda, stock, entradas, básculas, etc.)  
 
+<div style="
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+">
+  <img src="/images/Terpin/Terpin1.jpg" alt="" />
+  <img src="/images/Terpin/Terpin3.jpg" alt="" />
+  <img src="/images/Terpin/Terpin2.jpg" alt="" />
+</div>
 
-- **2 sinópticos 4K** con visión global de la fábrica  
+
+- **2 sinópticos 4K** con visión global de la fábrica 
+<div style="
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+">
+  <img src="/images/Terpin/Terpin1.jpg" alt="" />
+  <img src="/images/Terpin/Terpin3.jpg" alt="" />
+</div>
+
 - Supervisión de actuadores y sensores:  
   ⚙️ Motores, elevadores, raseras, distribuidores, piqueras, básculas y silos  
 
@@ -68,16 +87,18 @@ Sistema SCADA con Movicon para supervisión completa de una fábrica de pienso a
 | Otros equipos | Distribuidores, piqueras, elevadores |
 
 ### 2. Gestión de Alarmas
-- Fallos de marcha ⚡  
+- Fallos de confirmacion marcha ⚡  
 - Fallos de pesaje ⚖️  
 - Fallos en lógica de rutas 🛤️  
 - Nivel bajo de materia prima ⬇️  
 
-| Prioridad | Color | Ejemplo |
-|-----------|-------|---------|
-| Alta | 🔴 Rojo | Motor detenido, fallo crítico |
-| Media | 🟡 Amarillo | Pesaje fuera de rango |
-| Baja | 🟢 Verde | Advertencia de nivel bajo de silo |
+<div style="
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+">
+  <img src="/images/Terpin/Terpin1.jpg" alt="" />
+</div>
 
 ### 3. Integración con MES y SQL
 - Recepción de datos críticos: fórmulas, pesos de lotes, stock de materia prima, alarmas  
