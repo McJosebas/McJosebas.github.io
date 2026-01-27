@@ -122,8 +122,8 @@ Sistema SCADA con Movicon para supervisión completa de una fábrica de pienso a
 
 ![Diagrama de Arquitectura](../../assets/images/Diagrama-de-Arquitectura-project-2.jpg)
 
-[![Proyecto](images/ConexionesPLCS.jpg)](images/ConexionesPLCS.jpg)
+[![Proyecto](/images/Terpin/Terpin1.jpg)](/images/Terpin/Terpin1.jpg)
 
-<a href="images/ConexionesPLCS.jpg" target="_blank">
-  <img src="images/ConexionesPLCS.jpg" width="300" alt="Proyecto">
+<a href="/images/Terpin/Terpin1.jpg" target="_blank">
+  <img src="/images/Terpin/Terpin1.jpg" width="300" alt="Proyecto">
 </a>
