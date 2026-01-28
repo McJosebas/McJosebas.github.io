@@ -87,7 +87,7 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 
 ## 📂 Documentación del Proyecto
 
-- **Manual de Usuario:** Operación, seguridad y prevención de riesgos. 
+- **Manual de Usuario:** Operación, seguridad y prevención de riesgos.<br>
 [⬇️ Descargar Manual de Usuario (PDF)](/pdf/MANUAL_USUARIO.pdf)
 
 
