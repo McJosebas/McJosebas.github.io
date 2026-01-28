@@ -20,8 +20,9 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 ## 🛠️ Tecnologías
 
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/PLC-Siemens%20S7--1200-brightgreen" alt="Siemens PLC">
-  <img src="https://img.shields.io/badge/HMI-KTP700-blue" alt="HMI">
+  <img src="https://img.shields.io/badge/x2%20PLC-Siemens%20S7--1200-brightgreen" alt="Siemens PLC">
+  <img src="https://img.shields.io/badge/HMI1-KTP700-blue" alt="HMI1">
+  <img src="https://img.shields.io/badge/HMI2-NB3Q-TW00B-V1-blue" alt="HMI1">  
   <img src="https://img.shields.io/badge/Motion-Panasonic%20MINAS%20LIQI-purple" alt="Motion Control">
   <img src="https://img.shields.io/badge/Vision-Cognex%20In--Sight-red" alt="Vision">
   <img src="https://img.shields.io/badge/Printer-Zebra%20ZE500-black" alt="Zebra">
@@ -29,13 +30,13 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 </div>
 
 - **PLC:** 2x Siemens SIMATIC S7-1200 (Arquitectura Maestro–Esclavo)  
-- **HMI:** Siemens KTP700 Basic  
+- **HMI:** Siemens KTP700 Basic y NB3Q-TW00B-V1
 - **Motion Control:** Servomotor Panasonic MINAS LIQI (Control PTO)  
 - **Visión Artificial:** Cámara Cognex In-Sight 8000  
 - **Impresión:** Zebra ZE500 (motor de impresión industrial)  
 - **Comunicaciones:** Profinet, TCP/IP, FTP  
 - **Neumática:** Vacío y soplado para transferencia de etiquetas  
-- **Software:** TIA Portal V17 + integración con Maewin  
+- **Software:** TIA Portal V17 + Maewin (Etiquetas) + NB-Designer + In‑Sight Explorer + PANATERM (driver)
 
 ---
 
