@@ -5,10 +5,10 @@ publishDate: 2026-01-07
 isFeatured: true
 seo:
   image:
-    src: "../../assets/images/project-7.jpg"
+    src: "/images/Project2/1.jpeg"
 ---
 
-![Project preview](../../assets/images/project-7.jpg)
+![Project preview](/images/Project2/1.jpeg)
 
 **Nota:** Este caso de estudio muestra un proyecto real de automatización industrial orientado a trazabilidad, control de calidad y etiquetado automático en línea de producción.
 
@@ -91,8 +91,11 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 [⬇️ Descargar Manual de Usuario (PDF)](/pdf/MANUAL_USUARIO.pdf)
 
 
-- **Manual de Funcionamiento:** Lógica de control, secuencias y estados GEMMA.  
-- **Manual de Comunicaciones:** Red, direcciones IP y protocolos de datos.  
+- **Manual de Funcionamiento:** Lógica de control, secuencias y estados GEMMA.<br>
+[⬇️ Descargar Manual de Usuario (PDF)](/pdf/MANUAL_USUARIO.pdf)
+
+- **Manual de Comunicaciones:** Red, direcciones IP y protocolos de datos.<br>
+[⬇️ Descargar Manual de Usuario (PDF)](/pdf/MANUAL_USUARIO.pdf)
 
 ---
 
