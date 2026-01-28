@@ -107,14 +107,6 @@ Sistema SCADA con Movicon para supervisión completa de una fábrica de pienso a
 
 [![Proyecto](/images/Terpin/Terpin4.png)](/images/Terpin/Terpin4.png)
 
-<div style="text-align: center;">
-  <a href="/images/Terpin/Terpin4.png" target="_blank">
-    <img src="/images/Terpin/Terpin4.png" 
-         alt="Proyecto" 
-         style="width:50%; max-width:600px; height:auto;">
-  </a>
-</div>
-
 
 ### 3. Integración con MES y SQL
 - Recepción de datos críticos: fórmulas, pesos de lotes, stock de materia prima, alarmas  
@@ -129,17 +121,6 @@ Sistema SCADA con Movicon para supervisión completa de una fábrica de pienso a
 
 ## 🖼️ Evidencia Visual
 
-### Sinópticos
-<!--
-- ![Sinóptico 4K - Vista General](../../assets/images/project-scada.jpg)  
-- ![Sinóptico Área Dosificación](../../assets/images/project-scada.jpg)
--->
 ### Diagrama de Arquitectura
 
 ![Diagrama de Arquitectura](../../assets/images/Diagrama-de-Arquitectura-project-2.jpg)
-
-[![Proyecto](/images/Terpin/Terpin1.jpg)](/images/Terpin/Terpin1.jpg)
-
-<a href="/images/Terpin/Terpin1.jpg" target="_blank">
-  <img src="/images/Terpin/Terpin1.jpg" width="300" alt="Proyecto">
-</a>
