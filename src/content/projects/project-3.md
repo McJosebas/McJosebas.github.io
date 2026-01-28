@@ -5,10 +5,10 @@ publishDate: 2026-01-07
 isFeatured: true
 seo:
   image:
-    src: "/images/Project2/1.jpeg"
+    src: "../../assets/images/Project2/Project2.jpeg"
 ---
 
-![Project preview](/images/Project2/1.jpeg)
+![Project preview](../../assets/images/Project2/Project2.jpeg)
 
 **Nota:** Este caso de estudio muestra un proyecto real de automatización industrial orientado a trazabilidad, control de calidad y etiquetado automático en línea de producción.
 
