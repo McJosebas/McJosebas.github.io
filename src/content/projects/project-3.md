@@ -22,7 +22,7 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/x2%20PLC-Siemens%20S7--1200-brightgreen" alt="Siemens PLC">
   <img src="https://img.shields.io/badge/HMI1-KTP700-blue" alt="HMI1">
-  <img src="https://img.shields.io/badge/HMI2-NB3Q-TW00B-V1-blue" alt="HMI1">  
+  <img src="https://img.shields.io/badge/HMI2-NB3Q%20TW00B-blue" alt="HMI1">  
   <img src="https://img.shields.io/badge/Motion-Panasonic%20MINAS%20LIQI-purple" alt="Motion Control">
   <img src="https://img.shields.io/badge/Vision-Cognex%20In--Sight-red" alt="Vision">
   <img src="https://img.shields.io/badge/Printer-Zebra%20ZE500-black" alt="Zebra">
