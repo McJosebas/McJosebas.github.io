@@ -93,10 +93,3 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 
 ---
 
-## 👨‍💻 Sobre el Autor
-
-**Daniel Pastor Redondo**  
-*Técnico en Automatización y Robótica Industrial*  
-
-> **¿Te interesa saber más sobre este proyecto?**  
-> Puedes contactarme a través de mi [perfil de LinkedIn](https://www.linkedin.com/in/daniel-pastor-redondo-49794a331/)
