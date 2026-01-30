@@ -49,42 +49,99 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 
 ---
 
-## ⚡ Características
+## 🔄 Workflow del Proyecto
 
-### 1. Control y Posicionamiento de Alta Precisión
-- Uso de **servomotores** para el posicionamiento exacto de la caja durante el proceso de etiquetado.  
-- Sincronización precisa entre movimiento, impresión y aplicación de etiquetas.  
+### 1. Análisis del Problema y Definición de Requisitos
+- Identificación de la necesidad de **automatizar el etiquetado en las cuatro caras** del producto.
+- Enfoque en **precisión, repetibilidad y trazabilidad** del proceso.
+- Definición de requisitos funcionales clave:
+  - Etiquetado correcto en las **4 caras**
+  - Alta precisión de posicionamiento
+  - Verificación mediante **visión artificial**
+  - Integración con sistemas industriales existentes
+  - Gestión de errores y rechazo de piezas defectuosas
 
-### 2. Arquitectura de Control Industrial
-- Red **Profinet** para comunicación rápida y fiable entre PLCs, HMI y periféricos.  
-- Programación desarrollada en **TIA Portal V17**, combinando:
-  - **KOP:** Secuenciación principal del proceso.
-  - **SCL:** Gestión de datos, validaciones y cálculos.
+---
 
-### 3. Gestión de Estados – Guía GEMMA
-- Modos de funcionamiento claramente definidos:
-  - **Producción automática**
-  - **Modo preparación (F2)**
-  - **Parada en estado inicial (A1)**
-- Gestión segura de arranques, paradas y rearme tras fallo.  
-- Integración de **paradas de emergencia** y condiciones de seguridad.
+### 2. Diseño Conceptual del Sistema
+- Diseño de una **arquitectura modular y escalable**, compuesta por:
+  - Sistema de transporte y posicionamiento con **servomotores**
+  - Estación de etiquetado sincronizada
+  - Sistema de visión artificial para validación
+  - Control centralizado mediante **PLC**
+  - **HMI** para operación y diagnóstico
+- Definición de la arquitectura general, señales de control y comunicaciones entre dispositivos.
 
-### 4. Sistema de Verificación por Visión Artificial
-- La cámara **Cognex In-Sight** valida:
-  - Presencia de etiqueta  
-  - Calidad del código QR  
-  - Legibilidad del contenido  
-- En caso de fallo:
-  - Bloqueo del avance de la caja  
-  - Solicitud automática de **reimpresión de etiqueta**  
-- Garantía de **calidad 100% verificada** antes de salida.
+---
 
-### 5. Gestión de Errores y Reintentos
-- Reintento automático de impresión ante errores de lectura.  
-- Registro de estados y fallos para diagnóstico rápido por mantenimiento.  
+### 3. Selección de Hardware y Tecnologías
+- Selección de componentes industriales orientados a **fiabilidad y robustez**:
+  - **PLC’s** para el control del proceso
+  - **Servomotor + driver** para posicionamiento preciso
+  - Cámaras de **visión artificial** para verificación
+  - **HMI** para supervisión y control del sistema
+  - **Impresora de etiquetas**
+  - Comunicaciones industriales para la sincronización de equipos
 
+---
 
-### 6. Diagrama de Arquitectura
+### 4. Desarrollo del Software de Control
+- Programación de los PLC’s siguiendo una **arquitectura modular**, separando:
+  - Control de movimiento
+  - Lógica de secuencias
+  - Gestión de impresión
+  - Gestión del sistema de visión artificial
+  - Manejo de errores y alarmas
+- Enfoque orientado a un sistema **mantenible y fácilmente escalable**.
+
+---
+
+### 5. Integración de Visión Artificial e Impresión
+- Implementación de un sistema integrado encargado de:
+  - Impresión de etiquetas
+  - Verificación de la impresión
+  - Comprobación de la posición y orientación de las etiquetas
+  - Validación de la calidad del etiquetado
+  - Envío de señales **OK / NOK** al PLC
+- Rechazo automático de productos defectuosos y registro de incidencias.
+
+---
+
+### 6. Desarrollo de la Interfaz HMI
+- Diseño de una HMI orientada al operario que permite:
+  - Supervisión del estado del sistema en tiempo real
+  - Ajuste de parámetros de proceso
+  - Visualización de alarmas y errores
+  - Facilitación de tareas de mantenimiento y diagnóstico
+
+---
+
+### 7. Pruebas y Puesta en Marcha
+- Ejecución de pruebas en distintas fases:
+  - Pruebas individuales de cada módulo
+  - Pruebas de integración del sistema completo
+  - Ajuste de precisión y tiempos de ciclo
+  - Validación del sistema de visión artificial
+
+---
+
+### 8. Optimización y Validación Final
+- Optimización del sistema tras la puesta en marcha:
+  - Reducción de tiempos de ciclo
+  - Mejora de la precisión del etiquetado
+  - Optimización de la gestión de errores
+  - Aumento de la estabilidad general del sistema
+- Validación final en entorno industrial.
+
+---
+
+### 9. Resultados Obtenidos
+- Automatización completa del proceso de etiquetado
+- Reducción significativa de errores humanos
+- Mejora de la trazabilidad del producto
+- Aumento de la eficiencia y repetibilidad del proceso
+
+### 10. Diagrama de Arquitectura
 
 [![Diagrama de Arquitectura](/images/Project2/Project2_2.png)](/images/Project2/Project2_2.png)
 
