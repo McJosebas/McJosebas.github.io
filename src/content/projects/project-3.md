@@ -86,7 +86,7 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 
 ### 6. Diagrama de Arquitectura
 
-[![Diagrama de Arquitectura](/images/Project2/Project2_2.png)](images/Project2/Project2_2.png)
+[![Diagrama de Arquitectura](/images/Project2/Project2_2.png)](/images/Project2/Project2_2.png)
 
 ---
 
@@ -95,12 +95,17 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 - **Manual de Usuario:** Operación, seguridad y prevención de riesgos.<br>
 [⬇️ Descargar Manual de Usuario (PDF)](/pdf/MANUAL_USUARIO.pdf)
 
-
 - **Manual de Funcionamiento:** Lógica de control, secuencias y estados GEMMA.<br>
 [⬇️ Descargar Manual de Usuario (PDF)](/pdf/MANUAL_USUARIO.pdf)
 
 - **Manual de Comunicaciones:** Red, direcciones IP y protocolos de datos.<br>
-[⬇️ Descargar Manual de Usuario (PDF)](/pdf/MANUAL_USUARIO.pdf)
+[⬇️ Descargar Manual de Comunicaciones (PDF)](/pdf/MANUAL_USUARIO.pdf)
+
+- **Manual de HMI:** Guia para el operario.<br>
+[⬇️ Descargar Manual de HMI (PDF)](/pdf/MANUAL_USUARIO.pdf)
+
+- **Manual de Grafet y Programa:** Construccion del programa de manera interna.<br>
+[⬇️ Descargar Manual de Grafet y Programa (PDF)](/pdf/MANUAL_USUARIO.pdf)
 
 ---
 
