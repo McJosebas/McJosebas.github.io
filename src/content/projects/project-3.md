@@ -83,6 +83,11 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 - Reintento automático de impresión ante errores de lectura.  
 - Registro de estados y fallos para diagnóstico rápido por mantenimiento.  
 
+
+### 6. Diagrama de Arquitectura
+
+[![Diagrama de Arquitectura](/images/Project2/Project2_2.jpeg)](images/Project2/Project2_2.jpeg)
+
 ---
 
 ## 📂 Documentación del Proyecto
