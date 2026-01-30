@@ -52,7 +52,7 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 
 ---
 
-### 2. Diseño Conceptual del Sistema
+### 2. Diseño Conceptual del Sistema🖌️
 - Diseño de una **arquitectura modular y escalable**, compuesta por:
   - Sistema de posicionamiento con **servomotores**
   - Estación de etiquetado neumatico sincronizada
@@ -63,7 +63,7 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 
 ---
 
-### 3. Selección de Hardware y Tecnologías
+### 3. Selección de Hardware y Tecnologías 🛜
 - Selección de componentes industriales orientados a **fiabilidad y robustez**:
   - **PLC’s** para el control del proceso
   - **Servomotor + driver** para posicionamiento preciso
@@ -75,7 +75,7 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 
 ---
 
-### 4. Desarrollo del Software de Control
+### 4. Desarrollo del Software de Control🧑‍💻
 - Programación de los PLC’s siguiendo una **arquitectura modular**, separando:
   - Control de movimiento
   - Lógica de secuencias
@@ -86,7 +86,7 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 
 ---
 
-### 5. Integración de Visión Artificial e Impresión
+### 5. Integración de Visión Artificial e Impresión🎥
 - Implementación de un sistema integrado encargado de:
   - Impresión de etiquetas
   - Verificación de la impresión
@@ -97,7 +97,7 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 
 ---
 
-### 6. Desarrollo de la Interfaz HMI
+### 6. Desarrollo de la Interfaz HMI📺
 - Diseño de una HMI orientada al operario que permite:
   - Supervisión del estado del sistema en tiempo real
   - Ajuste de parámetros de proceso 
@@ -106,7 +106,7 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 
 ---
 
-### 7. Pruebas y Puesta en Marcha
+### 7. Pruebas y Puesta en Marcha🔩
 - Ejecución de pruebas en distintas fases:
   - Pruebas individuales de cada módulo
   - Pruebas de integración del sistema completo
@@ -115,7 +115,7 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 
 ---
 
-### 8. Optimización y Validación Final
+### 8. Optimización y Validación Final📈
 - Optimización del sistema tras la puesta en marcha:
   - Reducción de tiempos de ciclo
   - Mejora de la precisión del etiquetado
@@ -125,7 +125,7 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 
 ---
 
-### 9. Resultados Obtenidos
+### 9. Resultados Obtenidos✅
 - Automatización completa del proceso de etiquetado
 - Reducción significativa de errores humanos
 - Mejora de la trazabilidad del producto
