@@ -86,7 +86,7 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 
 ### 6. Diagrama de Arquitectura
 
-[![Diagrama de Arquitectura](/images/Project2/Project2_2.jpeg)](images/Project2/Project2_2.jpeg)
+[![Diagrama de Arquitectura](/images/Project2/Project2_2.png)](images/Project2/Project2_2.png)
 
 ---
 
