@@ -40,20 +40,9 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 
 ---
 
-## 🎯 Objetivos
-
-1. Automatizar el **etiquetado completo de cajas en sus cuatro caras** sin intervención manual.  
-2. Garantizar **trazabilidad total del producto** mediante códigos QR verificados por visión artificial.  
-3. Implementar una lógica de control **robusta, segura y estandarizada** siguiendo la Guía GEMMA.  
-4. Reducir errores de impresión y lectura a **cero productos defectuosos** en salida de estación.  
-
----
-
 ## 🔄 Workflow del Proyecto
 
-### 1. Análisis del Problema y Definición de Requisitos
-- Identificación de la necesidad de **automatizar el etiquetado en las cuatro caras** del producto.
-- Enfoque en **precisión, repetibilidad y trazabilidad** del proceso.
+### 1. Análisis del Problema y Definición de Requisitos 🎯
 - Definición de requisitos funcionales clave:
   - Etiquetado correcto en las **4 caras**
   - Alta precisión de posicionamiento
@@ -65,11 +54,11 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 
 ### 2. Diseño Conceptual del Sistema
 - Diseño de una **arquitectura modular y escalable**, compuesta por:
-  - Sistema de transporte y posicionamiento con **servomotores**
-  - Estación de etiquetado sincronizada
+  - Sistema de posicionamiento con **servomotores**
+  - Estación de etiquetado neumatico sincronizada
   - Sistema de visión artificial para validación
-  - Control centralizado mediante **PLC**
-  - **HMI** para operación y diagnóstico
+  - Control centralizado mediante **PLC's**
+  - **HMI's** para operación y diagnóstico
 - Definición de la arquitectura general, señales de control y comunicaciones entre dispositivos.
 
 ---
@@ -78,9 +67,10 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 - Selección de componentes industriales orientados a **fiabilidad y robustez**:
   - **PLC’s** para el control del proceso
   - **Servomotor + driver** para posicionamiento preciso
-  - Cámaras de **visión artificial** para verificación
-  - **HMI** para supervisión y control del sistema
+  - Cámara de **visión artificial** para verificación
+  - **HMI's** para supervisión y control del sistema
   - **Impresora de etiquetas**
+  - **Sensores y sistema neumatico** para funcionamiento de la estacion de etiquetado
   - Comunicaciones industriales para la sincronización de equipos
 
 ---
@@ -110,7 +100,7 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 ### 6. Desarrollo de la Interfaz HMI
 - Diseño de una HMI orientada al operario que permite:
   - Supervisión del estado del sistema en tiempo real
-  - Ajuste de parámetros de proceso
+  - Ajuste de parámetros de proceso 
   - Visualización de alarmas y errores
   - Facilitación de tareas de mantenimiento y diagnóstico
 
