@@ -143,16 +143,16 @@ Diseño e implementación de una **estación automática de etiquetado 4 caras**
 [⬇️ Descargar Manual de Usuario (PDF)](/pdf/MANUAL_USUARIO.pdf)
 
 - **Manual de Funcionamiento:** Lógica de control, secuencias y estados GEMMA.<br>
-[⬇️ Descargar Manual de Usuario (PDF)](/pdf/MANUAL_USUARIO.pdf)
+[⬇️ Descargar Manual de Usuario (PDF)](/pdf/MANUAL_FUNCIONAMIENTO.pdf)
 
 - **Manual de Comunicaciones:** Red, direcciones IP y protocolos de datos.<br>
-[⬇️ Descargar Manual de Comunicaciones (PDF)](/pdf/MANUAL_USUARIO.pdf)
+[⬇️ Descargar Manual de Comunicaciones (PDF)](/pdf/MANUAL_COMUNICACION.pdf)
 
 - **Manual de HMI:** Guia para el operario.<br>
 [⬇️ Descargar Manual de HMI (PDF)](/pdf/MANUAL_USUARIO.pdf)
 
 - **Manual de Grafet y Programa:** Construccion del programa de manera interna.<br>
-[⬇️ Descargar Manual de Grafet y Programa (PDF)](/pdf/MANUAL_USUARIO.pdf)
+[⬇️ Descargar Manual de Grafet y Programa (PDF)](/pdf/MANUAL_GRAFCETS.pdf)
 
 ---
 
