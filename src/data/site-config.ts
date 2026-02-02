@@ -69,7 +69,7 @@ const siteConfig: SiteConfig = {
     hero: {        
     title: 'Carta de presentación',
     text:
-    "¿Trabajas en **Recursos Humanos**, eres **cliente**, **dueño de una empresa** o simplemente estás buscando un **perfil como el mío**?\n\n" +
+    "¿Trabajas como **Reclutador**, eres **cliente**, **dueño de una empresa** o simplemente estás buscando un **perfil como el mío**?\n\n" +
     "La idea de esta web es **ponerte las cosas un poco más fáciles** a la hora de decidir si soy la persona adecuada para lo que estás buscando.\n\n" +
     "Elegir a alguien solo por su **currículum** puede ser arriesgado: no siempre muestra **cómo trabaja una persona** ni **de qué es realmente capaz**.\n\n" +
     "Con este **portafolio** no pretendo decir que sea mejor que otros candidatos, sino enseñarte con claridad **mi experiencia**, **mi recorrido profesional** y **los proyectos** en los que he trabajado.\n\n" +
