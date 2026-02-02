@@ -5,10 +5,10 @@ publishDate: 2026-01-15
 isFeatured: true
 seo:
   image:
-    src: "../../assets/images/Project2/Project2.jpeg"
+    src: "../../assets/images/Project3/Project3_1.png"
 ---
 
-![Project preview](../../assets/images/Project2/Project2.jpeg)
+![Project preview](../../assets/images/Project3/Project3_1.png)
 
 **Nota:** Este caso de estudio muestra un proyecto real de automatización industrial enfocado a sistemas de pesaje, dosificación, trazabilidad y supervisión de procesos mediante tecnologías abiertas.
 
@@ -21,14 +21,14 @@ El sistema permite visualizar pesos, consignas, porcentajes, lotes y recetas en 
 ## 🛠️ Tecnologías
 
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/PLC-Siemens%20S7--300%20%2F%201200-brightgreen" alt="Siemens PLC">
+  <img src="https://img.shields.io/badge/PLC-Siemens%201200-brightgreen" alt="Siemens PLC">
   <img src="https://img.shields.io/badge/HMI-Node--RED%20Dashboard-blue" alt="Node-RED Dashboard">
   <img src="https://img.shields.io/badge/SCADA-Node--RED-red" alt="Node-RED">
   <img src="https://img.shields.io/badge/Database-SQL%20Server-black" alt="SQL Server">
   <img src="https://img.shields.io/badge/Protocol-ISO--on--TCP%20%7C%20TCP%2FIP-orange" alt="Network">
 </div>
 
-- **PLC:** Siemens SIMATIC S7  
+- **PLC:** Siemens SIMATIC S7 1200
 - **HMI / SCADA:** Node-RED + Node-RED Dashboard  
 - **Base de Datos:** Microsoft SQL Server  
 - **Comunicaciones:** ISO-on-TCP, TCP/IP  
