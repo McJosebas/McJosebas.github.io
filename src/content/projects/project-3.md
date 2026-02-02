@@ -5,10 +5,10 @@ publishDate: 2026-01-15
 isFeatured: true
 seo:
   image:
-    src: "../../assets/images/Project3/Project3_1.png"
+    src: "/images/Project3/Project3_1.png"
 ---
 
-![Project preview](../../assets/images/Project3/Project3_1.png)
+![Project preview](/images/Project3/Project3_1.png)
 
 **Nota:** Este caso de estudio muestra un proyecto real de automatización industrial enfocado a sistemas de pesaje, dosificación, trazabilidad y supervisión de procesos mediante tecnologías abiertas.
 
